@@ -47,7 +47,7 @@
     flex-direction: column;
     justify-content: center;
     width: 83%;
-    height: 80%;
+    height: auto;
     font-family: 'karla'; 
     box-shadow: 3px 10px 20px 1px #a4b9ca90;
     border-radius: 5px;
@@ -195,7 +195,7 @@
         flex-direction: column;
         justify-content: center;
         width: 50%;
-        height: 60%;
+        height: auto;
         font-family: 'karla'; 
         box-shadow: 3px 10px 20px 1px #a4b9ca90;
         border-radius: 0px 0px 50px 50px;
@@ -345,7 +345,7 @@
         flex-direction: column;
         justify-content: center;
         width: 50%;
-        height: 60%;
+        height: auto;
         font-family: 'karla'; 
         box-shadow: 3px 10px 20px 1px #a4b9ca90;
         border-radius: 0px 0px 15px 15px;
