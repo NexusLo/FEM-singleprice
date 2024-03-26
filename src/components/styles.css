@@ -194,7 +194,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 50%;
+        width: 48%;
         height: auto;
         font-family: 'karla'; 
         box-shadow: 3px 10px 20px 1px #a4b9ca90;
@@ -204,8 +204,8 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        min-height: 190px;
-        height: 35%; 
+        min-height: 200px;
+        height: 38%; 
         background-color: white;
         border-radius: 10px 10px 0px 0px;
         
@@ -344,7 +344,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 50%;
+        width: 48%;
         height: auto;
         font-family: 'karla'; 
         box-shadow: 3px 10px 20px 1px #a4b9ca90;
@@ -355,8 +355,8 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        min-height: 190px;
-        height: 35%; 
+        min-height: 210px;
+        height: 40%; 
         background-color: white;
         border-radius: 10px 10px 0px 0px;
     }
